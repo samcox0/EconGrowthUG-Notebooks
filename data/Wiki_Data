@@ -1,0 +1,145 @@
+	Country name	Alpha-3 code	Alpha-2 code original	Country/Area	Continental_Region	Sub_Region	Population_July_2018	Population_July_2019	Change	Country/Territory	UN Region	gdppc_IMF	year_IMF	gdppc_WB	year_WB	gdppc_CIA	year_CIA	country_name
+0	Afghanistan	AFG	.mw-parser-output .monospaced{font-family:monospace,monospace}AF	Afghanistan	Asia	Southern Asia	37171921	38041754	+2.34%	Afghanistan *	Asia	2456.0	2020	2079.0	2020	2000	2020	Afghanistan
+1	Albania	ALB	AL	Albania	Europe	Southern Europe	2882740	2880917	−0.06%	Albania *	Europe	17858.0	2022	15646.0	2021	13300	2020	Albania
+2	Algeria	DZA	DZ	Algeria	Africa	Northern Africa	42228408	43053054	+1.95%	Algeria *	Africa	13324.0	2022	12038.0	2021	10700	2020	Algeria
+3	Andorra	AND	AD	Andorra	Europe	Southern Europe	77006	77142	+0.18%	Andorra *	Europe	65372.0	2022			49900	2015	Andorra
+4	Angola	AGO	AO	Angola	Africa	Middle Africa	30809787	31825295	+3.30%	Angola *	Africa	7455.0	2022	6581.0	2021	6200	2020	Angola
+5	Antigua and Barbuda	ATG	AG	Antigua and Barbuda	Americas	Caribbean	96286	97118	+0.86%	Antigua and Barbuda *	Americas	22070.0	2022	19838.0	2021	18000	2020	Antigua and Barbuda
+6	Argentina	ARG	AR	Argentina	Americas	South America	44361150	44780677	+0.95%	Argentina *	Americas	26074.0	2022	23627.0	2021	19700	2020	Argentina
+7	Armenia	ARM	AM	Armenia	Asia	Western Asia	2951745	2957731	+0.20%	Armenia *	Asia	16798.0	2022	14630.0	2021	12600	2020	Armenia
+8	Austria	AUT	AT	Austria	Europe	Western Europe	8891388	8955102	+0.72%	Austria *	Europe	66680.0	2022	58428.0	2021	51900	2020	Austria
+9	Bahrain	BHR	BH	Bahrain	Asia	Western Asia	1569446	1641172	+4.57%	Bahrain *	Asia	57921.0	2022	45411.0	2021	40900	2020	Bahrain
+10	Bangladesh	BGD	BD	Bangladesh	Asia	Southern Asia	161376708	163046161	+1.03%	Bangladesh *	Asia	7985.0	2022	6613.0	2021	4800	2020	Bangladesh
+11	Barbados	BRB	BB	Barbados	Americas	Caribbean	286641	287025	+0.13%	Barbados *	Americas	17314.0	2022	14817.0	2021	12900	2020	Barbados
+12	Belarus	BLR	BY	Belarus	Europe	Eastern Europe	9452617	9452411		Belarus *	Europe	21709.0	2022	21699.0	2021	19100	2020	Belarus
+13	Belgium	BEL	BE	Belgium	Europe	Western Europe	11482178	11539328	+0.50%	Belgium *	Europe	62065.0	2022	58931.0	2021	48200	2020	Belgium
+14	Belize	BLZ	BZ	Belize	Americas	Central America	383071	390353	+1.90%	Belize *	Americas	9623.0	2022	6922.0	2021	6100	2020	Belize
+15	Benin	BEN	BJ	Benin	Africa	Western Africa	11485044	11801151	+2.75%	Benin *	Africa	4183.0	2022	3789.0	2021	3300	2020	Benin
+16	Bhutan	BTN	BT	Bhutan	Asia	Southern Asia	754388	763092	+1.15%	Bhutan *	Asia	13077.0	2022	11129.0	2020	10900	2020	Bhutan
+17	Bosnia and Herzegovina	BIH	BA	Bosnia and Herzegovina	Europe	Southern Europe	3323925	3301000	−0.69%	Bosnia and Herzegovina *	Europe	17899.0	2022	16847.0	2021	14300	2020	Bosnia and Herzegovina
+18	Botswana	BWA	BW	Botswana	Africa	Southern Africa	2254068	2303697	+2.20%	Botswana *	Africa	19199.0	2022	17604.0	2021	16000	2020	Botswana
+19	Brazil	BRA	BR	Brazil	Americas	South America	209469323	211049527	+0.75%	Brazil *	Americas	17684.0	2022	16056.0	2021	14100	2020	Brazil
+20	Bulgaria	BGR	BG	Bulgaria	Europe	Eastern Europe	7051608	7000119	−0.73%	Bulgaria *	Europe	29178.0	2022	26705.0	2021	22400	2020	Bulgaria
+21	Burkina Faso	BFA	BF	Burkina Faso	Africa	Western Africa	19751466	20321378	+2.89%	Burkina Faso *	Africa	2656.0	2022	2462.0	2021	2200	2020	Burkina Faso
+22	Burundi	BDI	BI	Burundi	Africa	Eastern Africa	10524117	10864245	+3.23%	Burundi *	Africa	865.0	2022	793.0	2021	700	2020	Burundi
+23	Cambodia	KHM	KH	Cambodia	Asia	South-eastern Asia	16249792	16486542	+1.46%	Cambodia *	Asia	5583.0	2022	4683.0	2021	4200	2020	Cambodia
+24	Cameroon	CMR	CM	Cameroon	Africa	Middle Africa	25216267	25876380	+2.62%	Cameroon *	Africa	4419.0	2022	4065.0	2021	3600	2020	Cameroon
+25	Canada	CAN	CA	Canada	Americas	Northern America	37074562	37411047	+0.91%	Canada *	Americas	57827.0	2022	52085.0	2021	45900	2020	Canada
+26	Chad	TCD	TD	Chad	Africa	Middle Africa	15477729	15946876	+3.03%	Chad *	Africa	1719.0	2022	1591.0	2021	1500	2020	Chad
+27	Chile	CHL	CL	Chile	Americas	South America	18729160	18952038	+1.19%	Chile *	Americas	28887.0	2022	29104.0	2021	23300	2020	Chile
+28	Colombia	COL	CO	Colombia	Americas	South America	49661048	50339443	+1.37%	Colombia *	Americas	18693.0	2022	16894.0	2021	13400	2020	Colombia
+29	Costa Rica	CRI	CR	Costa Rica	Americas	Central America	4999441	5047561	+0.96%	Costa Rica *	Americas	24837.0	2022	23387.0	2021	19700	2020	Costa Rica
+30	Croatia	HRV	HR	Croatia	Europe	Southern Europe	4156405	4130304	−0.63%	Croatia *	Europe	37550.0	2022	33801.0	2021	26500	2020	Croatia
+31	Cuba	CUB	CU	Cuba	Americas	Caribbean	11338134	11333483	−0.04%	Cuba *	Americas					12300	2016	Cuba
+32	Denmark	DNK	DK	Denmark	Europe	Northern Europe	5752126	5771876	+0.34%	Denmark *	Europe	69845.0	2022	64651.0	2021	55900	2020	Denmark
+33	Djibouti	DJI	DJ	Djibouti	Africa	Eastern Africa	958923	973560	+1.53%	Djibouti *	Africa	6514.0	2022	5926.0	2021	5500	2020	Djibouti
+34	Dominica	DMA	DM	Dominica	Americas	Caribbean	71625	71808	+0.26%	Dominica *	Americas	13030.0	2022	11974.0	2021	9900	2020	Dominica
+35	Ecuador	ECU	EC	Ecuador	Americas	South America	17084358	17373662	+1.69%	Ecuador *	Americas	12763.0	2022	11661.0	2021	10300	2020	Ecuador
+36	Egypt	EGY	EG	Egypt	Africa	Northern Africa	98423598	100388073	+2.00%	Egypt *	Africa	15959.0	2022	13316.0	2021	12000	2020	Egypt
+37	El Salvador	SLV	SV	El Salvador	Americas	Central America	6420746	6453553	+0.51%	El Salvador *	Americas	10576.0	2022	9669.0	2021	8100	2020	El Salvador
+38	Equatorial Guinea	GNQ	GQ	Equatorial Guinea	Africa	Middle Africa	1308975	1355986	+3.59%	Equatorial Guinea *	Africa	19433.0	2022	18127.0	2021	17000	2020	Equatorial Guinea
+39	Eritrea	ERI	ER	Eritrea	Africa	Eastern Africa	3452786	3497117	+1.28%	Eritrea *	Africa	2078.0	2022	1626.0	2011	1600	2017	Eritrea
+40	Estonia	EST	EE	Estonia	Europe	Northern Europe	1322920	1325648	+0.21%	Estonia *	Europe	46126.0	2022	42192.0	2021	35600	2020	Estonia
+41	Ethiopia	ETH	ET	Ethiopia	Africa	Eastern Africa	109224414	112078730	+2.61%	Ethiopia *	Africa	3434.0	2022	2600.0	2021	2300	2020	Ethiopia
+42	Fiji	FJI	FJ	Fiji	Oceania	Melanesia	883483	889953	+0.73%	Fiji *	Oceania	13944.0	2022	12060.0	2021	11000	2020	Fiji
+43	Gabon	GAB	GA	Gabon	Africa	Middle Africa	2119275	2172579	+2.52%	Gabon *	Africa	18088.0	2022	15598.0	2021	14400	2020	Gabon
+44	Germany	DEU	DE	Germany	Europe	Western Europe	83124418	83517045	+0.47%	Germany *	Europe	63835.0	2022	57928.0	2021	50900	2020	Germany
+45	Ghana	GHA	GH	Ghana	Africa	Western Africa	28206728	28833629	+2.22%	Ghana *	Africa	6780.0	2022	6178.0	2021	5300	2020	Ghana
+46	Greece	GRC	GR	Greece	Europe	Southern Europe	10522246	10473455	−0.46%	Greece *	Europe	36466.0	2022	31295.0	2021	27300	2020	Greece
+47	Grenada	GRD	GD	Grenada	Americas	Caribbean	111454	112003	+0.49%	Grenada *	Americas	18436.0	2022	16680.0	2021	15100	2020	Grenada
+48	Guatemala	GTM	GT	Guatemala	Americas	Central America	17247849	17581472	+1.93%	Guatemala *	Americas	9931.0	2022	9769.0	2021	8400	2020	Guatemala
+49	Guinea	GIN	GN	Guinea	Africa	Western Africa	12414293	12771246	+2.88%	Guinea *	Africa	2993.0	2022	2879.0	2021	2700	2020	Guinea
+50	Guinea-Bissau	GNB	GW	Guinea-Bissau	Africa	Western Africa	1874303	1920922	+2.49%	Guinea-Bissau *	Africa	2851.0	2022	2057.0	2021	1800	2020	Guinea-Bissau
+51	Guyana	GUY	GY	Guyana	Americas	South America	779006	782766	+0.48%	Guyana *	Americas	42647.0	2022	24494.0	2021	18700	2020	Guyana
+52	Haiti	HTI	HT	Haiti	Americas	Caribbean	11123178	11263770	+1.26%	Haiti *	Americas	3166.0	2022	3127.0	2021	2800	2020	Haiti
+53	Honduras	HND	HN	Honduras	Americas	Central America	9587522	9746117	+1.65%	Honduras *	Americas	6769.0	2022	6253.0	2021	5100	2020	Honduras
+54	Hungary	HUN	HU	Hungary	Europe	Eastern Europe	9707499	9684679	−0.24%	Hungary *	Europe	42132.0	2022	36753.0	2021	31000	2020	Hungary
+55	Iceland	ISL	IS	Iceland	Europe	Northern Europe	336713	339031	+0.69%	Iceland *	Europe	66467.0	2022	57646.0	2021	52300	2020	Iceland
+56	India	IND	IN	India	Asia	Southern Asia	1352642280	1366417754	+1.02%	India *	Asia	8293.0	2022	7334.0	2021	6100	2020	India
+57	Indonesia	IDN	ID	Indonesia	Asia	South-eastern Asia	267670543	270625568	+1.10%	Indonesia *	Asia	14638.0	2022	12904.0	2021	11400	2020	Indonesia
+58	Iraq	IRQ	IQ	Iraq	Asia	Western Asia	38433600	39309783	+2.28%	Iraq *	Asia	12408.0	2022	10409.0	2021	9300	2020	Iraq
+59	Ireland	IRL	IE	Ireland	Europe	Northern Europe	4818690	4882495	+1.32%	Ireland *	Europe	131034.0	2022	106456.0	2021	89700	2020	Ireland
+60	Israel	ISR	IL	Israel	Asia	Western Asia	8381516	8519377	+1.64%	Israel *	Asia	52173.0	2022	43722.0	2021	38300	2020	Israel
+61	Italy	ITA	IT	Italy	Europe	Southern Europe	60627291	60550075	−0.13%	Italy *	Europe	51062.0	2022	45936.0	2021	39000	2020	Italy
+62	Jamaica	JAM	JM	Jamaica	Americas	Caribbean	2934847	2948279	+0.46%	Jamaica *	Americas	11962.0	2022	10026.0	2021	8700	2020	Jamaica
+63	Japan	JPN	JP	Japan	Asia	Eastern Asia	127202192	126860301	−0.27%	Japan *	Asia	48813.0	2022	42940.0	2021	41400	2019	Japan
+64	Jordan	JOR	JO	Jordan	Asia	Western Asia	9965318	10101694	+1.37%	Jordan *	Asia	11975.0	2022	10952.0	2021	9800	2020	Jordan
+65	Kazakhstan	KAZ	KZ	Kazakhstan	Asia	Central Asia	18319618	18551427	+1.27%	Kazakhstan *	Asia	30827.0	2022	28600.0	2021	25300	2020	Kazakhstan
+66	Kenya	KEN	KE	Kenya	Africa	Eastern Africa	51392565	52573973	+2.30%	Kenya *	Africa	6122.0	2022	5024.0	2021	4200	2020	Kenya
+67	Kiribati	KIR	KI	Kiribati	Oceania	Micronesia	115847	117606	+1.52%	Kiribati *	Oceania	2165.0	2022	2172.0	2020	2300	2020	Kiribati
+68	Kuwait	KWT	KW	Kuwait	Asia	Western Asia	4137312	4207083	+1.69%	Kuwait *	Asia	51528.0	2022	47303.0	2020	49900	2019	Kuwait
+69	Kyrgyzstan	KGZ	KG	Kyrgyzstan	Asia	Central Asia	6304030	6415850	+1.77%	Kyrgyzstan *	Asia	5771.0	2022	5288.0	2021	4700	2020	Kyrgyzstan
+70	Latvia	LVA	LV	Latvia	Europe	Northern Europe	1928459	1906743	−1.13%	Latvia *	Europe	38124.0	2022	34469.0	2021	29900	2020	Latvia
+71	Lebanon	LBN	LB	Lebanon	Asia	Western Asia	6859408	6855713	−0.05%	Lebanon *	Asia	11377.0	2020	10691.0	2021	11600	2020	Lebanon
+72	Lesotho	LSO	LS	Lesotho	Africa	Southern Africa	2108328	2125268	+0.80%	Lesotho *	Africa	3028.0	2022	2682.0	2021	2300	2020	Lesotho
+73	Liberia	LBR	LR	Liberia	Africa	Western Africa	4818973	4937374	+2.46%	Liberia *	Africa	1667.0	2022	1553.0	2021	1400	2020	Liberia
+74	Libya	LBY	LY	Libya	Africa	Northern Africa	6678559	6777452	+1.48%	Libya *	Africa	18945.0	2022	23357.0	2021	10300	2020	Libya
+75	Liechtenstein	LIE	LI	Liechtenstein	Europe	Western Europe	37910	38019	+0.29%	Liechtenstein *	Europe					139100	2009	Liechtenstein
+76	Lithuania	LTU	LT	Lithuania	Europe	Northern Europe	2801264	2759627	−1.49%	Lithuania *	Europe	46159.0	2022	42665.0	2021	36700	2020	Lithuania
+77	Luxembourg	LUX	LU	Luxembourg	Europe	Western Europe	604245	615729	+1.90%	Luxembourg *	Europe	141587.0	2022	134754.0	2021	110300	2020	Luxembourg
+78	Madagascar	MDG	MG	Madagascar	Africa	Eastern Africa	26262313	26969307	+2.69%	Madagascar *	Africa	1790.0	2022	1635.0	2021	1500	2020	Madagascar
+79	Malawi	MWI	MW	Malawi	Africa	Eastern Africa	18143217	18628747	+2.68%	Malawi *	Africa	1588.0	2022	1658.0	2021	1500	2020	Malawi
+80	Malaysia	MYS	MY	Malaysia	Asia	South-eastern Asia	31528033	31949777	+1.34%	Malaysia *	Asia	33113.0	2022	29617.0	2021	26400	2020	Malaysia
+81	Maldives	MDV	MV	Maldives	Asia	Southern Asia	515696	530953	+2.96%	Maldives *	Asia	30888.0	2022	18232.0	2021	13000	2020	Maldives
+82	Mali	MLI	ML	Mali	Africa	Western Africa	19077749	19658031	+3.04%	Mali *	Africa	2609.0	2022	2447.0	2021	2200	2020	Mali
+83	Malta	MLT	MT	Malta	Europe	Southern Europe	439248	440372	+0.26%	Malta *	Europe	56338.0	2022	47715.0	2021	39200	2020	Malta
+84	Mauritania	MRT	MR	Mauritania	Africa	Western Africa	4403313	4525696	+2.78%	Mauritania *	Africa	6925.0	2022	5592.0	2021	5000	2020	Mauritania
+85	Mauritius	MUS	MU	Mauritius	Africa	Eastern Africa	1189265	1198575	+0.78%	Mauritius *	Africa	25372.0	2022	22240.0	2021	19500	2020	Mauritius
+86	Mexico	MEX	MX	Mexico	Americas	Central America	126190788	127575529	+1.10%	Mexico *	Americas	22440.0	2022	20037.0	2021	17900	2020	Mexico
+87	Monaco	MCO	MC	Monaco	Europe	Western Europe	38682	38964	+0.73%	Monaco *	Europe					115700	2015	Monaco
+88	Mongolia	MNG	MN	Mongolia	Asia	Eastern Asia	3170216	3225167	+1.73%	Mongolia *	Asia	13611.0	2022	12863.0	2021	11500	2020	Mongolia
+89	Montenegro	MNE	ME	Montenegro	Europe	Southern Europe	627809	627987	+0.03%	Montenegro *	Europe	26032.0	2022	22795.0	2021	18300	2020	Montenegro
+90	Morocco	MAR	MA	Morocco	Africa	Northern Africa	36029093	36471769	+1.23%	Morocco *	Africa	9808.0	2022	8144.0	2021	6900	2020	Morocco
+91	Mozambique	MOZ	MZ	Mozambique	Africa	Eastern Africa	29496004	30366036	+2.95%	Mozambique *	Africa	1457.0	2022	1342.0	2021	1200	2020	Mozambique
+92	Namibia	NAM		Namibia	Africa	Southern Africa	2448301	2494530	+1.89%	Namibia *	Africa	10791.0	2022	9805.0	2021	8900	2020	Namibia
+93	Nauru	NRU	NR	Nauru	Oceania	Micronesia	10670	10756	+0.81%	Nauru *	Oceania	10834.0	2022	15103.0	2021	13500	2019	Nauru
+94	Nepal	NPL	NP	Nepal	Asia	Southern Asia	28095714	28608710	+1.83%	Nepal *	Asia	4677.0	2022	4261.0	2021	3800	2020	Nepal
+95	New Zealand	NZL	NZ	New Zealand	Oceania	Australia and New Zealand	4743131	4783063	+0.84%	New Zealand *	Oceania	50851.0	2022	46420.0	2021	42400	2020	New Zealand
+96	Nicaragua	NIC	NI	Nicaragua	Americas	Central America	6465501	6545502	+1.24%	Nicaragua *	Americas	7154.0	2022	6332.0	2021	5300	2020	Nicaragua
+97	Nigeria	NGA	NG	Nigeria	Africa	Western Africa	195874683	200963599	+2.60%	Nigeria *	Africa	5884.0	2022	5459.0	2021	4900	2020	Nigeria
+98	Niue	NIU	NU	Niue	Oceania	Polynesia	1620	1615	−0.31%	Niue *	Oceania					5800	2003	Niue
+99	Oman	OMN	OM	Oman	Asia	Western Asia	4829473	4974986	+3.01%	Oman *	Asia	41150.0	2022	31118.0	2020	27300	2019	Oman
+100	Pakistan	PAK	PK	Pakistan	Asia	Southern Asia	212228286	216565318	+2.04%	Pakistan *	Asia	6662.0	2022	5878.0	2021	4600	2020	Pakistan
+101	Palau	PLW	PW	Palau	Oceania	Micronesia	17907	18008	+0.56%	Palau *	Oceania	13215.0	2022	16319.0	2020	17600	2019	Palau
+102	Panama	PAN	PA	Panama	Americas	Central America	4176869	4246439	+1.67%	Panama *	Americas	36370.0	2022	31680.0	2021	25400	2020	Panama
+103	Papua New Guinea	PNG	PG	Papua New Guinea	Oceania	Melanesia	8606323	8776109	+1.97%	Papua New Guinea *	Oceania	4271.0	2022	4445.0	2021	4100	2020	Papua New Guinea
+104	Paraguay	PRY	PY	Paraguay	Americas	South America	6956066	7044636	+1.27%	Paraguay *	Americas	14528.0	2022	13976.0	2021	12300	2020	Paraguay
+105	Peru	PER	PE	Peru	Americas	South America	31989260	32510453	+1.63%	Peru *	Americas	15273.0	2022	13895.0	2021	11300	2020	Peru
+106	Poland	POL	PL	Poland	Europe	Eastern Europe	37921592	37887768	−0.09%	Poland *	Europe	42466.0	2022	37503.0	2021	32200	2020	Poland
+107	Qatar	QAT	QA	Qatar	Asia	Western Asia	2781682	2832067	+1.81%	Qatar *	Asia	113675.0	2022	93521.0	2021	85300	2020	Qatar
+108	Romania	ROU	RO	Romania	Europe	Eastern Europe	19506114	19364557	−0.73%	Romania *	Europe	38097.0	2022	35414.0	2021	28800	2020	Romania
+109	Rwanda	RWA	RW	Rwanda	Africa	Eastern Africa	12301970	12626950	+2.64%	Rwanda *	Africa	2836.0	2022	2494.0	2021	2100	2020	Rwanda
+110	Saint Kitts and Nevis	KNA	KN	Saint Kitts and Nevis	Americas	Caribbean	52441	52823	+0.73%	Saint Kitts and Nevis *	Americas	27782.0	2022	26256.0	2021	23300	2020	Saint Kitts and Nevis
+111	Saint Lucia	LCA	LC	Saint Lucia	Americas	Caribbean	181889	182790	+0.50%	Saint Lucia *	Americas	16417.0	2022	14051.0	2021	12300	2020	Saint Lucia
+112	Saint Vincent and the Grenadines	VCT	VC	Saint Vincent and the Grenadines	Americas	Caribbean	110211	110589	+0.34%	Saint Vincent and the Grenadines *	Americas	15786.0	2022	14021.0	2021	12100	2020	Saint Vincent and the Grenadines
+113	Samoa	WSM	WS	Samoa	Oceania	Polynesia	196129	197097	+0.49%	Samoa *	Oceania	5882.0	2022	6420.0	2021	6300	2020	Samoa
+114	San Marino	SMR	SM	San Marino	Europe	Southern Europe	33785	33860	+0.22%	San Marino *	Europe	72070.0	2022	59572.0	2020	60800	2019	San Marino
+115	Saudi Arabia	SAU	SA	Saudi Arabia	Asia	Western Asia	33702756	34268528	+1.68%	Saudi Arabia *	Asia	55802.0	2022	49551.0	2021	44300	2020	Saudi Arabia
+116	Senegal	SEN	SN	Senegal	Africa	Western Africa	15854323	16296364	+2.79%	Senegal *	Africa	4113.0	2022	3769.0	2021	3300	2020	Senegal
+117	Seychelles	SYC	SC	Seychelles	Africa	Eastern Africa	97096	97739	+0.66%	Seychelles *	Africa	37661.0	2022	29838.0	2021	24400	2020	Seychelles
+118	Sierra Leone	SLE	SL	Sierra Leone	Africa	Western Africa	7650150	7813215	+2.13%	Sierra Leone *	Africa	1972.0	2022	1816.0	2021	1600	2020	Sierra Leone
+119	Singapore	SGP	SG	Singapore	Asia	South-eastern Asia	5757499	5804337	+0.81%	Singapore *	Asia	131426.0	2022	116487.0	2021	93400	2020	Singapore
+120	Slovakia	SVK	SK	Slovakia	Europe	Eastern Europe	5453014	5457013	+0.07%	Slovakia *	Europe	38620.0	2022	33010.0	2021	30300	2020	Slovakia
+121	Slovenia	SVN	SI	Slovenia	Europe	Southern Europe	2077837	2078654	+0.04%	Slovenia *	Europe	49968.0	2022	43625.0	2021	36500	2020	Slovenia
+122	Solomon Islands	SLB	SB	Solomon Islands	Oceania	Melanesia	652857	669823	+2.60%	Solomon Islands *	Oceania	2336.0	2022	2656.0	2021	2500	2020	Solomon Islands
+123	South Africa	ZAF	ZA	South Africa	Africa	Southern Africa	57792518	58558270	+1.33%	South Africa *	Africa	15556.0	2022	14420.0	2021	11500	2020	South Africa
+124	South Sudan	SSD	SS	South Sudan	Africa	Eastern Africa	10975927	11062113	+0.79%	South Sudan *	Africa	934.0	2022	1235.0	2015	1600	2017	South Sudan
+125	Sri Lanka	LKA	LK	Sri Lanka	Asia	Southern Asia	21228763	21323733	+0.45%	Sri Lanka *	Asia	14230.0	2022	14127.0	2021	12500	2020	Sri Lanka
+126	Suriname	SUR	SR	Suriname	Americas	South America	575990	581372	+0.93%	Suriname *	Americas	17350.0	2022	16676.0	2021	16100	2020	Suriname
+127	Sweden	SWE	SE	Sweden	Europe	Northern Europe	9971638	10036379	+0.65%	Sweden *	Europe	63877.0	2022	59324.0	2021	50700	2020	Sweden
+128	Switzerland	CHE	CH	Switzerland	Europe	Western Europe	8525611	8591365	+0.77%	Switzerland *	Europe	84469.0	2022	77324.0	2021	68400	2020	Switzerland
+129	Tajikistan	TJK	TJ	Tajikistan	Asia	Central Asia	9100835	9321018	+2.42%	Tajikistan *	Asia	4803.0	2022	4288.0	2021	3700	2020	Tajikistan
+130	Thailand	THA	TH	Thailand	Asia	South-eastern Asia	68863514	69037513	+0.25%	Thailand *	Asia	21114.0	2022	19210.0	2021	17300	2020	Thailand
+131	Togo	TGO	TG	Togo	Africa	Western Africa	7889093	8082366	+2.45%	Togo *	Africa	2619.0	2022	2380.0	2021	2100	2020	Togo
+132	Tonga	TON	TO	Tonga	Oceania	Polynesia	110589	110940	+0.32%	Tonga *	Oceania	6663.0	2022	6694.0	2020	6400	2019	Tonga
+133	Trinidad and Tobago	TTO	TT	Trinidad and Tobago	Americas	Caribbean	1389843	1394973	+0.37%	Trinidad and Tobago *	Americas	29797.0	2022	26868.0	2021	23700	2020	Trinidad and Tobago
+134	Tunisia	TUN	TN	Tunisia	Africa	Northern Africa	11565201	11694719	+1.12%	Tunisia *	Africa	12490.0	2022	11595.0	2021	9700	2020	Tunisia
+135	Turkmenistan	TKM	TM	Turkmenistan	Asia	Central Asia	5850901	5942089	+1.56%	Turkmenistan *	Asia	18875.0	2022	16194.0	2019	15500	2019	Turkmenistan
+136	Tuvalu	TUV	TV	Tuvalu	Oceania	Polynesia	11508	11646	+1.20%	Tuvalu *	Oceania	5844.0	2022	5082.0	2021	4400	2020	Tuvalu
+137	Uganda	UGA	UG	Uganda	Africa	Eastern Africa	42729036	44269594	+3.61%	Uganda *	Africa	3018.0	2022	2398.0	2021	2200	2020	Uganda
+138	Uruguay	URY	UY	Uruguay	Americas	South America	3449285	3461734	+0.36%	Uruguay *	Americas	27233.0	2022	24626.0	2021	21600	2020	Uruguay
+139	Uzbekistan	UZB	UZ	Uzbekistan	Asia	Central Asia	32476244	32981716	+1.56%	Uzbekistan *	Asia	9478.0	2022	8497.0	2021	7000	2020	Uzbekistan
+140	Vanuatu	VUT	VU	Vanuatu	Oceania	Melanesia	292680	299882	+2.46%	Vanuatu *	Oceania	2858.0	2022	3105.0	2021	2800	2020	Vanuatu
+141	Yemen	YEM	YE	Yemen	Asia	Western Asia	28498683	29161922	+2.33%	Yemen *	Asia	2136.0	2022	3689.0	2013	2500	2017	Yemen
+142	Zambia	ZMB	ZM	Zambia	Africa	Eastern Africa	17351708	17861030	+2.94%	Zambia *	Africa	3808.0	2022	3624.0	2021	3300	2020	Zambia
+143	Zimbabwe	ZWE	ZW	Zimbabwe	Africa	Eastern Africa	14438802	14645468	+1.43%	Zimbabwe *	Africa	2555.0	2022	2445.0	2021	2700	2020	Zimbabwe
