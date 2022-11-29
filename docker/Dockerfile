@@ -3,7 +3,7 @@
 # docker run -d -p 8888:8888 omerozak/econgrowthug:v1
 
 # Create docker for EconGrowthUG
-# Install all conda packages and then git clode our notebook repository
+# Install all conda packages and then git clone our notebook repository
 FROM condaforge/mambaforge
 
 # updates just in case
